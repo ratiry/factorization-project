@@ -1,5 +1,3 @@
-"# monesa-project" 
-This is simple web site made with :
-bootstrap 5, sass, html5, javascript 
-progect was made for studying goals
-progect is uncommercial
+this is progect which can factorize certain number
+this project was made with HTML, js,css 
+project was made for studying goals
